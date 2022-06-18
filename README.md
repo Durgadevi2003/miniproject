@@ -1,5 +1,5 @@
 # miniproject
-s.durga devi
-s.subha
-vaishanavi
+s.durgadevi,
+s.subha,
+vaishanavi,
 r.akalya
